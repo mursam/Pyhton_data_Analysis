@@ -519,7 +519,7 @@ df = sns.load_dataset("titanic")
 
 sns.get_dataset_names()
 
-sns.load_dataset("planets")
+sns.load_dataset("tips")
 
 
 
